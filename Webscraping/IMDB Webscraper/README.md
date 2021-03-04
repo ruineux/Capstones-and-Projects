@@ -12,6 +12,6 @@
      - Rating
      - Votes
      
-### The said data was also scraped to provide some basic analysis about the content of the data (see [jupyternotebook](https://github.com/ruineux/Capstones-and-Projects/blob/master/IMDB%20Webscraper/IMDB%20Top%20Movies%20EDA.ipynb) for reference)
+### The said data was also scraped to provide some basic analysis about the content of the data (see [jupyternotebook](https://github.com/ruineux/Capstones-and-Projects/blob/master/Webscraping/IMDB%20Webscraper/IMDB%20Top%20Movies%20EDA.ipynb) for reference)
 
 
