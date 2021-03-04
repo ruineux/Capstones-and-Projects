@@ -2,7 +2,7 @@
 
 ### Note: Data has been update based from the date it was uploaded/updated
 
-### Creation of a [webscraper function](https://github.com/ruineux/Capstones-and-Projects/blob/master/IMDB%20Webscraper/scraper/imdb.py) to get the top movies from IMDB with the following features available:
+### Creation of a [webscraper function](https://github.com/ruineux/Capstones-and-Projects/blob/master/Webscraping/IMDB%20Webscraper/scraper/imdb.py) to get the top movies from IMDB with the following features available:
      - Rank (Movie Rank)
      - Title
      - Year
