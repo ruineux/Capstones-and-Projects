@@ -4,7 +4,3 @@
 
 ## IMPORANT NOTE:
 ➤ No data will be uploaded in this repository to avoid exceeding the github limit (unless it's important)
-
-Interview Code: Estuz9d-6sgmd2
-
-https://eu.hirevue.com/interview-status/#/Estuz9d-6sgmd2/
