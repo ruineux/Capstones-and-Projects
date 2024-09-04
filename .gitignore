@@ -1,5 +1,6 @@
 # Other important things to ignore
 Data/
+Other Reference
 *.zip
 .gitignore
 
