@@ -1,0 +1,109 @@
+Strategic Consulting vs. Management Consulting
+
+Strategic Consulting
+- What do we work on?
+	- All Strategic Consultants are Management Consultant but not all Management consultants are Strategy Consultant
+- Works with Executives (C-Levels)
+- Exposed with difficult problems
+- Tends to move from plan to another
+
+Mangement Consulting
+- What we work on?
+- How we work on it?
+- If you wanna remain
+- Operations centered 
+- More standard
+
+
+Case Scenario
+- Tequila Company with 150 countries reach
+	- They would like to know out of which countries should be number 151?
+
+- They will hire Strategy Consultants
+	- Will do some analysis
+	- Recommend a country based on analysis
+	- This ends the (What we can work on?) and move to the next business question (How can they launch on the country specified by the Strategy Consultants)
+
+- How can they actually do this?
+	- Hire a Management Consultant that specializes in
+		- Supply Chain = How to get the product from one place to another
+		- Sales Expert Consultant = Figure out their sales team in the new branch
+		- Risk Management = What are the Risk? How do they work on with the government in the country? Black markets? Fake products?
+
+
+Important things to consider
+Project
+	- If the project has never done before less knowledge to leverage
+	- If they already had this before, templates and model you can leverage
+Timeline
+	- Measures the difficulty of certain projects
+Client
+	- Work hours tends to move
+
+
+Risk Management
+	- Fraud?
+	- Accountability and oversight (Account Management, Customer Subscriptions and Overuse)
+	- Reduce Errors and Inaaccuracies
+	- Unauthorized Access
+	- Strengthen internat controls
+	- Transparency in operations
+	- Minimize conflict of interest
+
+Financial Markets
+	- No Fraud
+	- Transparency in operations
+	- Conflict of interest
+		- Perfomance Impacting and Financial Impacting
+		- Account Management
+			- Customer Subscriptions
+			- User Overuse
+		- Order Management
+			- Creating of specialization
+				- Billing/Entitlement Specialist
+				- CAA Subscription permissioning
+					- Tied to Migration (Tech team for new subscription) if ever
+				- New Sales (New subscription)
+				- Sales (Exisiting subscription and add-on)
+				- Compliance
+				
+		- Credit Control
+		- Tech
+
+
+Scenarios:
+Meeting Service Level 
+Situation
+- Perfomance Impact: Low Delivery of Subscription based on Orders
+- Financial Impact: Lose of customer, in some cases overusage and not being billed, Credit Notes
+Task
+- Talked to different individuals ranging from individual contributor and management regarding process and their BAU
+Action
+- Found out that there are no streamline process due to the fact that there is only one group handling the order management from start to finish
+- Recommended that several group should be create that will handle several phases:
+	- Order Processing & Contract Signing
+	- Creation and Addition of Subscription/License
+	- Compliance
+	- Billing Updates
+	- Credit Collection
+Result
+- Within the 3 Month period of fully deploying the new groups
+- Improvement of Service Level from 70% to 85% 
+- Lesser Errors and Process repetition
+- Revenue Growth by 15%
+- Lesser Credit Notes offered to the customer
+
+Data Governance:
+Data Delivery Inconsistency
+Situation
+- Some incoming data lacks consistency and lost in data quality
+Task
+- See the data pipeline
+- Identify the Critical Data Elements needed based from the platforms where the data is being used
+Action
+- Recommended the best data Framework to tackle the problem
+- Let other organization know how the data bahave (refresh, scope, users)
+Result
+- Improve in data ingestion across all the platforms where the data is being used
+- Improve in data quality (accurate numbers are showing as well as the data types being followed)
+- Seemless integration across cross operational reports
