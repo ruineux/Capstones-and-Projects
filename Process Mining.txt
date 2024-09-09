@@ -1,0 +1,19 @@
+Process Mining
+- process inefficiencies questions:
+	- Where are the bottlenecks in the process?
+	- What is causing some cases to run late?
+	- Which resources are overloaded?
+	- Which activities are skipped more often?
+	- Which resources create deviations?
+
+- quantifying the impact of variants and inefficiencies
+	- How does this particular variant impact a certain process KPI, such as operational cost? 
+	- How does automation shorten the process cycle time?
+	- What percentage of steps in the process are automated?
+	- What percentage of cases are following the established process, and what’s the percentage that don’t conform?
+
+
+Benchmark things after
+- Compare before and after (or at least project 30%, 50%, 70%)
+
+Check best practice through conformity
