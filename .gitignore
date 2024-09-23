@@ -4,6 +4,7 @@ Other Reference
 *.zip
 *.7zip
 .gitignore
+*.twbr
 
 
 # Byte-compiled / optimized / DLL files
