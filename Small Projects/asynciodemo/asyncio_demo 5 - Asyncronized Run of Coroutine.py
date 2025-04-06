@@ -13,7 +13,7 @@ async def fetch_data(id, delay):
 async def main():
 
     # Run coroutines concurrently and gather their return values, returns a list
-    results = await asyncio.gather(fetch_data(1, 2), fetch_data(2, 1), fetch_data(3, 3))
+    results = await asyncio.gather(fetch_data(1, 2), fetch_data(2, 1), fetch_data(4, 3))
 
     # Process result
     for result in results:
